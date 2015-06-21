@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#<<<<<<< HEAD
 ######################
 # Project Specific
 ######################
@@ -7,8 +7,8 @@
 ######################
 # Node
 ######################
-/node/**
-/node_modules/**
+#/node/**
+#/node_modules/**
 
 ######################
 # SASS
@@ -131,4 +131,4 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
->>>>>>> d02235b71758f9dd012be696d10ea9e17cc2765a
+#>>>>>>> d02235b71758f9dd012be696d10ea9e17cc2765a
