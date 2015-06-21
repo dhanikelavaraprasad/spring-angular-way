@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "springAngularWay",
+    "packageName": "com.mycomp.lob.app",
+    "packageFolder": "com/mycomp/lob/app",
+    "authenticationType": "xauth",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "oracle",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "javaVersion": "7",
+    "enableTranslation": true,
+    "rememberMeKey": "4fa9ce299fedfaacbc2321decf7b09dcc56ab58a"
+  }
+}
